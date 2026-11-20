@@ -167,16 +167,16 @@ Insights identified from the SQL analysis and Power BI dashboard:
 ## Dashboard Screenshots
 
 ### Sales Overview
-![Sales Overview](Screenshots/Sales Overview.png)
+![Sales Overview](Screenshots/Sales%20Overview.png)
 
 ### Product Review Analysis
-![Product Review Analysis](Screenshots/Product Review Analysis.png)
+![Product Review Analysis](Screenshots/Product%20Review%20Analysis.png)
 
 ### Customer Overview
-![Customer Overview](Screenshots/Customer Overview.png)
+![Customer Overview](Screenshots/Customer%20Overview.png)
 
 ### Sales Trends
-![Sales Trends](Screenshots/Sales Trends.png)
+![Sales Trends](Screenshots/Sales%20Trends.png)
 
 ## Project Folder Structure
 
